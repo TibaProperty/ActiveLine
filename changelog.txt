@@ -1,5 +1,20 @@
-# Changelog
+---------------------------------------
+VERSION 1.1
+- Correction de faute : FDR AVANCE → FDR ADVANCE
+- Ajout machine FDR VISIONARY SUITE
+- Ajout mise à jour du logiciel
+- Correction majeur suite au problème de lancement sur windows 7
+- Ajout du Check Ping vers serveur Azure
+- Supression du message carte Eth1 non présent à la place le label devient rouge
+- Ajout onglet MAMMO et RX
 
-## [1.0.0] - 2026-05-21
-### Added
-- Initial release
+---------------------------------------
+VERSION 1.0
+- Création système client
+- Ajout capteurs
+- Export TXT
+- Import/Sauvegarde
+- Envoi Outlook
+- Validation IP
+- Anti doublon capteur
+- Suppression capteur
